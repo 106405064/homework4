@@ -1,0 +1,77 @@
+.title{
+    width: 340px;
+    padding-left: 25px;
+    color: #404040;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;
+}
+.subtitle{
+    margin-top: 10px;
+    width: 326px;
+    height: 50px;
+    padding-left: 25px;
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 50px;
+}
+.hero_img_leg {
+    font-family: 'Noto Sans', sans-serif;
+    color: #808080;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 21px;
+    padding: 0px 8px 0px 8px;
+}
+.p_part1{
+    margin-top:80px;
+}
+.p_part1>div{
+    width:330px;
+    padding-top:14px;
+    padding-left:38px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    color: #404040;
+    margin-bottom:40px;
+}
+.p_part1>div:last-child{
+    margin-bottom:0px;
+}
+span{
+    color:#A67A44;
+    text-decoration:underline;
+}
+.p_part2{
+    margin-top:52px;
+}
+.p_part2>div{
+    width:330px;
+    padding-top:14px;
+    padding-left:38px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    color: #404040;
+    margin-bottom:40px;
+}
+.p_part2>div:last-child{
+    margin-bottom:0px;
+}
+.p2{
+    margin-left:38px;
+    margin-bottom:30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #808080;
+}

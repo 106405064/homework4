@@ -1,0 +1,19 @@
+.hero_image{
+    margin-top: 35px;
+}
+.image{
+    margin-top: 60px;
+}
+
+.image_leg{
+    width: 235px;
+    margin-left: auto;
+    border-bottom:1px solid #d0a67d;
+    padding: 15px 0px 15px 0px;
+    margin-right:15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #999999;
+}
